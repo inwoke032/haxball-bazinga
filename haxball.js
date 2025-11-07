@@ -4,7 +4,7 @@
 //                    Based on Wazar94                    //
 // ==============) HAXDOM Script Bazinga x3 (============ //
 
-const roomName = '🌴 #HAXDOM BAZINGA X3 🔵⚪🔴';
+const roomName = '🎄 #HAXDOM BAZINGA X3 🎅🇩🇴';
 const maxPlayers = 30;
 const roomPublic = true;
 const geo = [{ "lat": 18.4861, "lon": -69.9312, "code": "do" }];
@@ -5421,6 +5421,14 @@ function uniformesaleatorios() {
 }
 
 var announcements = [
+    "¡Ya se siente la brisita navideña! 🎄 Prepárate para los torneos de fin de año. ¡Entérate de todo en el Discord!",
+    "¿Buscas equipo? ¿Quieres entrar a la liga? 🏆 Todo pasa en nuestro Discord oficial. ¡No te quedes fuera!",
+    "¡El link del Discord está aquí! ➡️ https://discord.gg/VXCc8NwBWt\n¡Únete para conocer a la comunidad y jugar en serio!",
+    "¿Sientes el fresquito? ❄️ Es la temporada de Haxball. ¡Calienta esos dedos y prepárate para lo que viene!",
+    "¡Los eventos especiales y torneos relámpago se anuncian PRIMERO en el Discord! 🔔 Que no te lo cuenten: https://discord.gg/VXCc8NwBWt",
+    "¡Ya casi huele a Navidad! 🎅 La mejor forma de celebrarlo es con goles y jugando en comunidad. ¡Te esperamos en el Discord!",
+    "¿Cansado de jugar en silencio? 🗣️ ¡Entra al Discord, únete a un canal de voz y arma tu equipo! https://discord.gg/VXCc8NwBWt",
+    "No olvides que la verdadera comunidad está en el Discord. ¡Eventos, ligas, memes y más! Únete ya: https://discord.gg/VXCc8NwBWt",
     "¿Sabías que puedes usar !help para ver todos los comandos?\n¡Úsalo si tienes dudas!",
     "Usa !afk solo en los primeros 30s de la partida\nSi no estás en cancha, no hay límite.",
     "Recuerda que tu ELO añadido después de una partida\ndepende de tu rendimiento y contribuciones.",
